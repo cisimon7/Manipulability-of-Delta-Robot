@@ -1,2 +1,2 @@
-# Manipulability-of-Delta-Robot
+# Manipulability of Delta Robot
 Plotting the Manipulability of a delta Robot
